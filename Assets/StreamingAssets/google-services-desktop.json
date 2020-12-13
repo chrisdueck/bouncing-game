@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507746709328",
+    "project_id": "bouncing-game-aca53",
+    "storage_bucket": "bouncing-game-aca53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507746709328:android:6dbab41eb8f5dc8a2ec655",
+        "android_client_info": {
+          "package_name": "com.ChrisDueck.BouncingGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507746709328-gk65c9csl7oa0jt5s242i5f1i21tftkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKaf4kEKd10Sj6t2QFYo_WmdsgWgGpk44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507746709328-gk65c9csl7oa0jt5s242i5f1i21tftkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
